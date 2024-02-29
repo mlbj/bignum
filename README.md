@@ -6,8 +6,10 @@ Numbers are represented in base 10 (which is far from optimal), stored using a `
 
 ## Test Instructions
 
-Run 
+Compile with  
 
 ```bash
 gcc -g bignum.cpp -o test -lstdc++
 ```
+
+and run `test`. 
